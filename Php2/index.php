@@ -1,7 +1,7 @@
 <?php
     header("Content-Type:text/html;charset=UTF8");
     include 'configPHP.php';
-    include 'functions.php';
+    include 'function.php';
 ?>
 <!DOCTYPE html>
 <html>
